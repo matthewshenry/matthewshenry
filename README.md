@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @matthewshenry
+- 👀 I’m interested in software development, data science, math, and the great outdoors!
+- 🌱 I’m currently learning Node.js!
+- 💞️ I’m looking to collaborate on ANYTHING! I'm always looking to learn new skills and start new projects in the wonderful world of tech.
+- 📫 email me at matthewshenry24@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm an avid record collector, raft guide, rock climber, and reader!
